@@ -1,5 +1,4 @@
-Ruslan
-24 year's 
-from Russia Federadion
-Student Vladivostok State Universety
-#Python #MySQL #Fast API
+**Ruslan**
+Telegram: https://t.me/PUBLICINDEXUSERNOTHAVE
+**Student Vladivostok State Universety**
+#Python #FastAPI #Docker #K8s #Jenkins #Linux #PSQL
