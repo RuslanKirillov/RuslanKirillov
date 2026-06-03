@@ -1,6 +1,6 @@
 # Hey, I'm Ruslan 👋
 
-🏦 **SRE Engineer @ Sberbank**
+🏦 **SRE Engineer**
 🎓 **Student @ Vladivostok State University**
 📍 Vladivostok, Russia
 ✈️ Telegram: [@PUBLICINDEXUSERNOTHAVE](https://t.me/PUBLICINDEXUSERNOTHAVE)
@@ -37,11 +37,12 @@
 
 ## 👨‍💻 About Me
 
-- 🔧 Занимаюсь надёжностью и доступностью production-систем
-- 📈 Строю мониторинг, алертинг и дашборды в Grafana
-- 🚀 Деплою и поддерживаю сервисы в Kubernetes / OpenShift
-- 🔁 Автоматизирую всё что можно автоматизировать
-- 🐍 Пишу на Python: автоматизация, скрипты, боты, FastAPI
+- 🔧 **SRE & Production Reliability**: Focused on the reliability, scalability, and high availability of production systems.
+- 📈 **Observability & Monitoring**: Building comprehensive monitoring, proactive alerting, and dashboards in Grafana.
+- 🚀 **Container Orchestration**: Deploying, scaling, and maintaining services in Kubernetes and OpenShift.
+- 🔁 **Automation First**: Automating workflows, CI/CD pipelines, and repetitive tasks to eliminate toil.
+- 🐍 **Python Development**: Writing scripts for automation, building custom bots, and developing APIs with FastAPI.
+
 
 ---
 
